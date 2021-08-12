@@ -1,0 +1,23 @@
+{
+    "entidad": "Empresa",
+    "instancia": [
+        {
+            "id": "empresa1",
+            "nombre": "Plásticos Fantásticos S.A",
+            "dirección": "calle sin nombre 1234",
+            "RUT": "1111111111",
+            "teléfono": "22095587"
+                                    
+        },
+
+        {
+            "id": "empresa2",
+            "nombre": "Plantas vivas LTDA",
+            "dirección": "camino de la vaca 5555",
+            "RUT": "2222111111",
+            "teléfono": "24055520"
+                                    
+        }
+        
+            ]
+}

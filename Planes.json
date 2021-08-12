@@ -1,0 +1,21 @@
+{
+    "entidad": "Plan",
+    "instancia": [
+        {
+            "id": "plan1",
+            "descripción": "Recolección de cartones",
+            "duración": "15 días",
+            "cantidad de participantes": "30"
+                                    
+        },
+
+        {
+            "id": "plan2",
+            "descripción": "Recolección de material compostable",
+            "duración": "30 días",
+            "cantidad de participantes": "12"
+                                    
+        }
+        
+            ]
+}

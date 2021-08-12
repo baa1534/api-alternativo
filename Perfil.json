@@ -1,0 +1,19 @@
+{
+    "entidad": "Perfil",
+    "instancia": [
+        {
+            "id": "perfil1",
+            "puntaje": "100",
+            "desafíos_cumplidos": ["Juntar tapitas edición 01/2021"],
+            "fotos": []
+                                    
+        },
+        {
+            "id": "perfil2",
+            "puntaje": "",
+            "desafíos_cumplidos": [],
+            "fotos": []
+        }
+        
+            ]
+}

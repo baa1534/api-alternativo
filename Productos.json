@@ -1,0 +1,14 @@
+{
+    "entidad": "Producto",
+    "instancia": [
+        {
+            "id": "producto1",
+            "nombre": "silla para jardín Julieta",
+            "descripción": "silla de dos plazas, con posabrazos",
+            "fotos": [],
+            "stock": "50"
+                                    
+        }
+        
+            ]
+}

@@ -1,0 +1,35 @@
+{
+    "entidad": "Direccion",
+    "instancia": [
+        {
+            "id": "dir1",
+            "pais": "Uruguay",
+            "departamento": "Montevideo",
+            "barrio": "Centro",
+            "calle": "Gral. Juan Perez",
+            "número": "1234",
+            "apto": ""
+            
+        },
+        {
+            "id": "dir2",
+            "pais": "Uruguay",
+            "departamento": "Montevideo",
+            "barrio": "Atahualpa",
+            "calle": "Ing. María Rodriguez",
+            "número": "4321",
+            "apto": "702"
+        },
+        {
+            "id": "dir3",
+            "pais": "Uruguay",
+            "departamento": "Montevideo",
+            "barrio": "Malvín",
+            "calle": "Av. Dr. Juana la Loca",
+            "número": "1111",
+            "apto": ""
+        }
+        
+        
+    ]
+}

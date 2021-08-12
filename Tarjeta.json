@@ -1,0 +1,26 @@
+{
+    "entidad": "Tarjeta",
+    "instancia": [
+        {
+            "id": "tarjeta1",
+            "banco": "BROU",
+            "número": "1234567891011121",
+            "fecha de vencimiento": "08/21"
+                        
+        },
+        {
+            "id": "tarjeta2",
+            "banco": "BBVA",
+            "número": "1112223334445556",
+            "fecha de vencimiento": "10/25"
+        },
+        {
+            "id": "tarjeta3",
+            "banco": "BROU",
+            "número": "2444666661234567",
+            "fecha de vencimiento": "01/23"
+        }
+        
+        
+    ]
+}

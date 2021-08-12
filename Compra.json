@@ -1,0 +1,13 @@
+{
+    "entidad": "Compra",
+    "instancia": [
+        {
+            "id": "compra1",
+            "monto": "500",
+            "fecha": "500",
+            "hora": "16:32:01"
+                                    
+        }
+        
+            ]
+}

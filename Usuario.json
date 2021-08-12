@@ -1,0 +1,15 @@
+{
+    "entidad": "Usuario",
+    "instancia": [
+        {
+            "correo": "micorreo1@gmail.com",
+            "nombre": "Juan Rebollo"
+                                    
+        },
+        {
+            "correo": "micorreo2@gmail.com",
+            "nombre": "Ana Fuentes"
+        }
+        
+            ]
+}

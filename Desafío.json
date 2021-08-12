@@ -1,0 +1,31 @@
+{
+    "entidad": "Desafío",
+    "instancia": [
+        {
+            "id": "desafío1",
+            "descripción": "Juntar tapitas edición 01/2021",
+            "duración": {
+                "inicio": "01/01/2021",
+                "fin": "15/01/2021"
+            } ,
+            "premios": "100 pts",
+            "estado": "terminado",
+            "ganadores": "micorreo1@gmail.com"
+                                    
+        },
+
+        {
+            "id": "desafío2",
+            "descripción": "Juntar tapitas edición 03/2021",
+            "duración": {
+                "inicio": "15/03/2021",
+                "fin": "21/03/2021"
+            } ,
+            "premios": "100 pts",
+            "estado": "terminado",
+            "ganadores": "micorreo1@gmail.com"
+                                    
+        }
+        
+            ]
+}
